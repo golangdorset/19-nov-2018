@@ -2,6 +2,6 @@
 
 Two talks were given:
 
-- [name of your talk] - Dan Richards
+- Emulators in Golang - Dan Richards
 - A Bit Shifty - Ben Cable
 
